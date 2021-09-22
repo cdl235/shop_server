@@ -1,5 +1,7 @@
 # shop_server
 下载后在文件夹shift + 鼠标右击 打开 PowerShell 窗口
+
+
 输入命令 node ./app.js 运行
 
 
